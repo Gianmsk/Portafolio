@@ -16,4 +16,6 @@ A Practical Case of Learning Muscle Fatigue Based on a sEMG Signal Using Bitalin
 
 https://laccei.org/LACCEI2024-CostaRica/full-papers/Contribution_1622_final_a.pdf
 
+Prediction of ICP Value in Pediatric Patients in Neurocritical Care Using LSTM and FCNN Models
+
 [Frontiers_Paper_Patrones.pdf](https://github.com/user-attachments/files/16773026/Frontiers_Paper_Patrones.pdf)
