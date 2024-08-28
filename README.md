@@ -1,21 +1,17 @@
 # Portafolio
 
-Diagnóstico de retinopatía en prematuros por medio de análisis de imágenes mediante Deep learning en un aplicativo móvil.
+1. **Diagnóstico de retinopatía en prematuros mediante análisis de imágenes con Deep Learning en un aplicativo móvil.**  
+   [Proyecto-Dicure](https://luis-loayza.github.io/Proyecto-Dicure/)
 
-https://luis-loayza.github.io/Proyecto-Dicure/
+2. **Dispositivo orientado a la fisioterapia de miembros inferiores mediante vibraciones constantes en pacientes con espina bífida.**  
+   [Espina Bífida](https://grupo18funbio.github.io/espinabifida/page36.html)
 
-Dispositivo orientado a la fisioterapia de los miembros inferiores mediante vibraciones constantes causados por espina bífida.
+3. **Diseño de una órtesis de muñeca para tratamiento ambulatorio en la rehabilitación pasiva-activa de flexión y extensión en pacientes con ACV isquémico subagudo.**  
+   [CV_GianfrancoFeria.docx][Diseño de una órtesis de muñeca para una tratamiento ambulatorio en la rehabilitación pasiva-activa de flexión y extensión de un paciente con ACV isquémico subagudo.pdf](https://github.com/user-attachments/files/16773403/Diseno.de.una.ortesis.de.muneca.para.una.tratamiento.ambulatorio.en.la.rehabilitacion.pasiva-activa.de.flexion.y.extension.de.un.paciente.con.ACV.isquemico.subagudo.pdf)
+)
 
-https://grupo18funbio.github.io/espinabifida/page36.html
+4. **Caso práctico de aprendizaje sobre fatiga muscular basado en señales sEMG utilizando el kit Bitalino.**  
+   [Learning Muscle Fatigue](https://laccei.org/LACCEI2024-CostaRica/full-papers/Contribution_1622_final_a.pdf)
 
-Diseño de una órtesis de muñeca para una tratamiento ambulatorio en la rehabilitación pasiva-activa de flexión y extensión de un paciente con ACV isquémico subagudo
-
-[CV_GianfrancoFeria.docx](https://github.com/user-attachments/files/16772306/CV_GianfrancoFeria.docx)
-
-A Practical Case of Learning Muscle Fatigue Based on a sEMG Signal Using Bitalino Kit
-
-https://laccei.org/LACCEI2024-CostaRica/full-papers/Contribution_1622_final_a.pdf
-
-Prediction of ICP Value in Pediatric Patients in Neurocritical Care Using LSTM and FCNN Models
-
-[Frontiers_Paper_Patrones.pdf](https://github.com/user-attachments/files/16773026/Frontiers_Paper_Patrones.pdf)
+5. **Predicción del valor de presión intracraneal (ICP) en pacientes pediátricos en cuidados neurocríticos utilizando modelos LSTM y FCNN.**  
+   [Frontiers Paper - Patrones](Frontiers_Paper_Patrones.pdf)
