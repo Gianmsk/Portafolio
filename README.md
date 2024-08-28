@@ -13,4 +13,5 @@
    [Learning Muscle Fatigue](https://laccei.org/LACCEI2024-CostaRica/full-papers/Contribution_1622_final_a.pdf)
 
 5. **Predicción del valor de presión intracraneal (ICP) en pacientes pediátricos en cuidados neurocríticos utilizando modelos LSTM y FCNN.**  
-   [Predicción ICP](Frontiers_Paper_Patrones.pdf)
+   [Predicción ICP](https://github.com/user-attachments/files/16773415/Frontiers_Paper_Patrones.pdf)
+)
